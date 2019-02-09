@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(185, 194, 192);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}
+
+h1 {
+  background-color: rgb(227, 231, 235);
+  text-align: center;
+  padding: 20px;
+}
+
+header h4 {
+  background-color: aliceblue;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  background-color: #111;
+  list-style-type: none;
+  margin: 10px, 10px, 10px, 10px;
+  padding: 10px, 10px, 10px, 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+  
+nav ul li {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 8px 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+nav li:hover {
+  background-color: #111;
+}
+
+article {
+  position: relative;
+  float: left;
+  width: 60%;
+}
+
+img{
+  width: 35%;
+  margin: 25px 25px 25px 10px;
+  float: left;
+}
+
+section {
+  width: 35%;
+  float: right;
+  margin: 20px;
+}
+
+ol {
+  width: 90%;
+  text-align: center;
+  font-family: fantasy;
+  color: rgb(80, 65, 73);
+  font: bold;
+  font-size: 20px;
+}
+
+.pups {
+  width: 97%;
+}
